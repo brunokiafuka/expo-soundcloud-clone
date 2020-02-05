@@ -1,0 +1,36 @@
+[
+  {
+    "name": "grayvee",
+    "avatar": "https://i1.sndcdn.com/avatars-000298106657-ogrgmg-t120x120.jpg",
+    "artwork": "https://i1.sndcdn.com/artworks-cn9JtOzoddvSkWY3-GBrMMQ-t500x500.jpg",
+    "title": "What It Takes To Be A Modern-Day Communicator",
+    "repost": 30,
+    "likes": 1250,
+    "listens": 5002,
+    "hastag": "#Business",
+    "durantion": "33:44"
+  },
+  {
+    "name": "Só Rap NEW SCHOOL",
+    "avatar": "https://i1.sndcdn.com/avatars-000153365043-6m61oy-t120x120.jpg",
+    "artwork": "https://i1.sndcdn.com/artworks-000678347098-k6h4dj-t500x500.jpg",
+    "title": "Antes Que Seja Tarde",
+    "repost": 25,
+    "isLiked": true,
+    "likes": 1420,
+    "listens": 2030,
+    "hastag": "#hip-hop",
+    "durantion": "2:15"
+  },
+  {
+    "name": "Def Jam Recordings",
+    "avatar": "https://i1.sndcdn.com/avatars-000589195770-1jhrdm-t120x120.jpg",
+    "artwork": "https://i1.sndcdn.com/artworks-glxpYXgJJpVc-0-t500x500.jpg",
+    "title": "P*$$Y Fairy (OTW)",
+    "repost": 2005,
+    "likes": 3220,
+    "listens": 50030,
+    "hastag": "#rnb",
+    "durantion": "0:30"
+  }
+]
